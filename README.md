@@ -1,6 +1,6 @@
 <img style="width:1500vh; height:400px; background-size: cover;" src="https://cdn.dribbble.com/users/2514208/screenshots/9457622/web_developer.gif" alt="">
 <h1 align="center">Hi 👋, I'm Ashutosh Singh Yadav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Frontend Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashu9335&label=Profile%20views&color=0e75b6&style=flat" alt="ashu9335" /> </p>
 
