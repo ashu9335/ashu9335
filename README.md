@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashu9335&label=Profile%20views&color=0e75b6&style=flat" alt="ashu9335" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Full Stack Development & Data Structure**
 
 - 💬 Ask me about **Frontend Development**
 
