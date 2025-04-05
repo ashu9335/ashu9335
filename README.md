@@ -1,14 +1,14 @@
 <img style="width:1500vh; height:400px; background-size: cover;" src="https://cdn.dribbble.com/users/2514208/screenshots/9457622/web_developer.gif" alt="">
 <h1 align="center">Hi 👋, I'm Ashutosh Singh Yadav</h1>
-<h3 align="center">A Passionate Frontend Developer from India</h3>
+<h3 align="center">A Passionate Security Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashu9335&label=Profile%20views&color=0e75b6&style=flat" alt="ashu9335" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Development & Data Structure**
+- 🌱 I’m currently learning **Log Monitoring, SIEM, Web Security many more....**
 
-- 💬 Ask me about **Frontend Development**
+- 💬 Ask me about **OWASP TOP 10**
 
-- 📫 How to reach me **yadavsinghashutosh135@gmail.com**
+- 📫 How to reach me **ashutoshwork001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
